@@ -6,7 +6,7 @@ O app simula um sistema de pedidos de comida com gerenciamento de carrinho, chec
 ## Funcionalidades
 
 * Página de Login (qualquer combinação de e-mail e senha desbloqueiam o acesso) 
-* Página Home (Contém uma lista de categorias e botão de configuração), ao selecionar uma categoria o usuário é encaminhado a tela de Produtos da categoria selecionada, podendo adicionar ou remover itens do carrinho. 
+* Página Home (contém uma lista de categorias e botão de configuração), ao selecionar uma categoria o usuário é encaminhado a tela de Produtos da categoria selecionada, podendo adicionar ou remover itens do carrinho. 
 * Tela de perfil contendo o nome e email do usuário logado.
 * Tela de pedido, contendo os pedidos realizados pelo usuário. 
 * Mapa, contendo 10 restaurantes da região Central do Rio de Janeiro. Ao clicar no restaurante o usuário é direcionado a uma página contendo o nome do restaurante, endereço e um exemplo de item do cardárpio do mesmo.
